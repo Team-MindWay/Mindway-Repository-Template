@@ -1,11 +1,11 @@
 name: "Todo"
-description: "✅✅✅"
+description: "✅ 해야할 일이 생겼습니다."
 body:
   - type: textarea
     attributes:
       label: Describe
       description: |
-        할 일을 작성해주세요.
+        해야할 일을 작성해주세요.
   - type: textarea
     attributes:
       label: Additional
