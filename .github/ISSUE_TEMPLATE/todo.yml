@@ -1,0 +1,13 @@
+name: "Todo"
+description: "✅"
+body:
+  - type: textarea
+    attributes:
+      label: Describe
+      description: |
+        할 일을 작성해주세요.
+  - type: textarea
+    attributes:
+      label: Additional
+      description: |
+        추가적으로 필요한 정보를 작성해주세요.
